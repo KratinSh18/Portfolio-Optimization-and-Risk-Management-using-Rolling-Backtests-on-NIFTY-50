@@ -1,2 +1,2 @@
-# Portfolio-Optimization-and-Risk-Management-using-Rolling-Backtests-on-NIFTY-50
+# Portfolio Optimization and Risk Management using Rolling Backtests on NIFTY 50
 Built and backtested multiple equity portfolios (GMV, Mean–Variance, Equal-Weight, and CAPM-based Active portfolios) using NIFTY 50 data from 2009–2022. Implemented rolling-window backtesting and evaluated performance using Sharpe and Information ratios. Estimated and validated 99% historical Value-at-Risk (VaR) to assess portfolio downside risk.
